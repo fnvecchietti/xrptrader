@@ -1,0 +1,18 @@
+{
+  "name": "boga-trading",
+  "version": "1.0.0",
+  "description": "bot to arbitrage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco N. Bogarin",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ccxt": "^1.39.78",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
